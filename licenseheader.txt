@@ -1,0 +1,12 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Seth Kelly
+${licensePrefix}9/1/22
+${licensePrefix}Exercise 4.
+${licensePrefix}Do stuff and things
+${licensePrefix}public static void main(String[] args)
+${licensePrefix}import java.util.Scanner;
+<#if licenseLast??>
+${licenseLast}
+</#if>
